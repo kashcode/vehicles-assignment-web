@@ -1,3 +1,3 @@
 # vehicles-assignment-web
 
-Demo: vehicles-assignment-web.arkls.id.lv
+Demo: http://vehicles-assignment-web.arkls.id.lv
